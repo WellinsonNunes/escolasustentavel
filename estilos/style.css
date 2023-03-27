@@ -2,6 +2,7 @@
 
 @import
 url('https://fonts.googleapis.com/css2?family= Anton & display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display&display=swap');
 
 
 * {
@@ -32,25 +33,25 @@ section.pagina1 {
 section.pagina2 {
     background-color: #4F8D4A;
     width: 400px;
-    height: 550px;
+    height: 650px;
 }
 
 section.pagina3 {
     background-color: #4F8D4A;
     width: 400px;
-    height: 550px;
+    height: 700px;
 }
 
 section.pagina4 {
     background-color: #4F8D4A;
     width: 400px;
-    height: 800px;
+    height: 900px;
 }
 
 section.pagina5 {
     background-color: #4F8D4A;
     width: 400px;
-    height: 550px;
+    height: 750px;
 }
 
 section.pagina6 {
@@ -77,6 +78,7 @@ p {
     padding: 25px;
     text-align: justify;
     color: white;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Red Hat Display', sans-serif;
+    line-height: 1.8em;
     
 }
