@@ -1,5 +1,9 @@
 @charset "UTF-08";
 
+@import
+url('https://fonts.googleapis.com/css2?family= Anton & display=swap');
+
+
 * {
     padding: 0px;
     margin: 0px;
@@ -26,26 +30,30 @@ section.pagina1 {
 }
 
 section.pagina2 {
-    background-color: white;
+    background-color: #4F8D4A;
     width: 400px;
     height: 400px;
+}
+
+h1 {
+    background-color: #85B803;
+    color: white;
+    display: inline-block;
+    width: 180px;
+    font-family: 'Anton', sans-serif;
+    padding: 10px;
+    font-size: 1.7em;
 }
 
 figure {
     text-align: center;
 }
 
-div.paragrafo {
-    background-color: #4F8D4A;
-    width: 350px;
-    margin: auto;
-    border-radius: 5px;
-    margin-bottom: 10px;
-}
 
 p {
-    padding: 10px;
+    padding: 25px;
     text-align: justify;
     color: white;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
 }
