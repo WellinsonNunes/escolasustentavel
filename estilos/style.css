@@ -32,17 +32,40 @@ section.pagina1 {
 section.pagina2 {
     background-color: #4F8D4A;
     width: 400px;
-    height: 400px;
+    height: 550px;
+}
+
+section.pagina3 {
+    background-color: #4F8D4A;
+    width: 400px;
+    height: 550px;
+}
+
+section.pagina4 {
+    background-color: #4F8D4A;
+    width: 400px;
+    height: 800px;
+}
+
+section.pagina5 {
+    background-color: #4F8D4A;
+    width: 400px;
+    height: 550px;
+}
+
+section.pagina6 {
+    background-color: #4F8D4A;
+    width: 400px;
+    height: 800px;
 }
 
 h1 {
     background-color: #85B803;
     color: white;
-    display: inline-block;
-    width: 180px;
     font-family: 'Anton', sans-serif;
     padding: 10px;
     font-size: 1.7em;
+    text-align: center;
 }
 
 figure {
