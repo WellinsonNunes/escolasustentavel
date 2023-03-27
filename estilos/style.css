@@ -11,7 +11,7 @@ url('https://fonts.googleapis.com/css2?family= Anton & display=swap');
 }
 
 body, html {
-    background-color: #4F8D4A;
+    background-color: #000000;
     height: 100vh;
     width: 100vw;
 }
@@ -19,6 +19,15 @@ body, html {
 main {
     height: 100vh;
     width: 100vw;
+}
+
+div.corpo {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+
+    transform: translate(-50%, -50%);
+    height: 100vh;
 }
 
 section.pagina1 {
